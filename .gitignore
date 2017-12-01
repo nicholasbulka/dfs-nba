@@ -1,0 +1,6 @@
+.DS_Store
+*.json
+*.rtf
+.project
+.pydevproject
+.Rapp.history
