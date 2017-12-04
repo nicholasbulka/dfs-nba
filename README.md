@@ -18,4 +18,4 @@ My model’s best performance was first out of over 4000 people once last season
 
  
 
-![Alt text](images/dfs-trophy.png?raw=true "Title2")
+![Alt text](images/trophy-dfs.png?raw=true "Title2")
